@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1410474",
+    "type": "Painted Bottles",
+    "title": "Transparent bottle",
+    "description": "These decor lighted bottles will glow in your living room.",
+    "coverImage": "http://localhost:3000/arpita/1639571190182.jpg",
+    "createdAt": ""
+  },
+  {
+    "id": "1331625",
+    "type": "Decor",
+    "title": "Dusk",
+    "description": "A photo frame with a picture of a landscape suitable for home decor.",
+    "coverImage": "http://localhost:3000/tanvi/phone_post.jpeg",
+    "createdAt": ""
+  },
+  {
+    "id": "1331626",
+    "type": "Painted Bottles",
+    "title": "Twin Seasons",
+    "description": "Beautifully describes  winter and summer in the same Bottle.",
+    "coverImage": "http://localhost:3000/arpita/1655490869266.jpg",
+    "createdAt": ""
+  },
+  {
+    "id": "850745",
+    "type": "Coasters",
+    "title": "Relationships",
+    "description": "Relationship are like birds.. if you hold tight they die.. enjoy your morning tea with these beautiful birds in the Coaster.",
+    "coverImage": "http://localhost:3000/arpita/PhotoRoom-20220710_084948.png",
+    "createdAt": ""
+  }
+]
